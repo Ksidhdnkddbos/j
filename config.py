@@ -8,7 +8,7 @@ class Development(Config):
     # لاتغيرها
     DB_URI = "postgresql://postgres:final111@localhost:5432/finalv"
     #كود التيرمكس
-    STRING_SESSION = ""
+    STRING_SESSION = "your_sessions"
     # توكن البوت
     TG_BOT_TOKEN = "TOKEN_BOT"
     # لاتغيرها
