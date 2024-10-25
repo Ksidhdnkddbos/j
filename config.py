@@ -18,6 +18,6 @@ class Development(Config):
     # لاتغيرها
     SUDO_COMMAND_HANDLER = "."
     #ايدي قناتك بهذا الشكل Put your channel in the same shape -1002168684378
-    PM_LOGGER_GROUP_ID = 
+  #  PM_LOGGER_GROUP_ID = 
     #كرر نفس الايدي هنا
-    PRIVATE_GROUP_BOT_API_ID =           
+   # PRIVATE_GROUP_BOT_API_ID =           
